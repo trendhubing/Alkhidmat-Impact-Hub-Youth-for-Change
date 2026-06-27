@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
 :root{
-    --primary:#0B8F4D;
+    --primary:#2d8e84;
     --primary-dark:#066A39;
     --accent:#FFD54F;
     --white:#ffffff;
@@ -415,7 +415,7 @@ section{
    FOOTER
 ========================= */
 footer{
-    background:#111827;
+    background:#2d8e84;
     color:white;
     text-align:center;
     padding:50px 20px;
