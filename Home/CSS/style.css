@@ -159,7 +159,7 @@ header{
    BUTTONS
 ========================= */
 .btn{
-    background:var(--primary);
+    background:linear-gradient(90deg,#0B8F4D,#2d8e84);
     color:white;
     padding:12px 28px;
     border:none;
