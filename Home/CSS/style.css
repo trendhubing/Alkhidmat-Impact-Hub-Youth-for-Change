@@ -415,7 +415,7 @@ section{
    FOOTER
 ========================= */
 footer{
-    background:#2d8e84;
+    background:linear-gradient(90deg,#0B8F4D,#2d8e84);
     color:white;
     text-align:center;
     padding:50px 20px;
