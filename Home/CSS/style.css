@@ -335,7 +335,7 @@ section{
    STATS
 ========================= */
 .stats{
-    background:linear-gradient(135deg,#0B8F4D,#14A85A);
+    background:linear-gradient(135deg,#0B8F4D,#2d8e84);
     color:white;
     display:grid;
     grid-template-columns:repeat(auto-fit,minmax(180px,1fr));
@@ -388,7 +388,7 @@ section{
 .progress-fill{
     width:75%;
     height:100%;
-    background:linear-gradient(90deg,#0B8F4D,#14A85A);
+    background:linear-gradient(90deg,#0B8F4D,#2d8e84);
     border-radius:50px;
 }
 
