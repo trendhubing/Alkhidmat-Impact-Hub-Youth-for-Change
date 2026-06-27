@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
 :root{
     --primary:#2d8e84;
-    --primary-dark:#2d8e99;
+    --primary-dark:#0b3b36;
     --accent:#FFD54F;
     --white:#ffffff;
     --light:#F8FAFC;
@@ -652,18 +652,6 @@ footer{
 }
 
 
-
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: "Poppins", sans-serif;
-}
-
-body {
-    background: #f5f7fa;
-    padding: 40px 20px;
-}
 
 form {
     max-width: 800px;
